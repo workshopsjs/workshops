@@ -8,7 +8,9 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 
 ## Workshops
 
-* [Angular, Tour de heroes](https://github.com/jorgeucano/tour-of-heroes-with-cli-es)
-* [Rompiendo el Mundo Binario con Vue.js](https://github.com/ianaya89/workshop-vuejs)
+* ![alt text](https://avatars4.githubusercontent.com/u/139426?v=4&s=10 "Logo Title Text 1") [Angular, Tour de heroes](https://github.com/jorgeucano/tour-of-heroes-with-cli-es)
 
-* [Tu primera API con GraphQL](https://github.com/jfresco/graphql-workshop-es)
+*  ![alt text](https://avatars7.githubusercontent.com/u/6128107?v=4&s=10 "Logo Title Text 1") [Rompiendo el Mundo Binario con Vue.js](https://github.com/ianaya89/workshop-vuejs) 
+
+
+*  ![alt text](https://avatars4.githubusercontent.com/u/12972006?v=4&s=10 "Logo Title Text 1") [Tu primera API con GraphQL](https://github.com/jfresco/graphql-workshop-es)
