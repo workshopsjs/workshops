@@ -10,3 +10,5 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 
 * [Angular, Tour de heroes](https://github.com/jorgeucano/tour-of-heroes-with-cli-es)
 * [Rompiendo el Mundo Binario con Vue.js](https://github.com/ianaya89/workshop-vuejs)
+
+* [Tu primera API con GraphQL](https://github.com/jfresco/graphql-workshop-es)
