@@ -15,4 +15,4 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 
 *  ![alt text](https://avatars4.githubusercontent.com/u/12972006?v=4&s=10 "Logo Title Text 1") [Tu primera API con GraphQL](https://github.com/jfresco/graphql-workshop-es)
 
-* <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [Pensando en react](https://github.com/leoasis/workshop-pensando-en-react/issues)
+* <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [Pensando en React](https://github.com/leoasis/workshop-pensando-en-react/issues)
