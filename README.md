@@ -17,5 +17,5 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 
 * <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [Pensando en React](https://github.com/leoasis/workshop-pensando-en-react/issues)
 
-* <img src="https://avatars2.githubusercontent.com/u/4359353?v=4&s=10" /> [Elm: Desarrollo web para perfeccionistas.](https://github.com/ajchambeaud/elm-workshops)
+* <img src="https://avatars2.githubusercontent.com/u/4359353?v=4&s=10" /> [Elm: Desarrollo web para perfeccionistas.](https://github.com/ajchambeaud/elm-workshop)
 
