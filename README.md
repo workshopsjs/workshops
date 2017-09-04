@@ -15,7 +15,7 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 
 *  ![alt logo Graph](https://avatars4.githubusercontent.com/u/12972006?v=4&s=10) [Tu primera API con GraphQL](https://github.com/jfresco/graphql-workshop-es)
 
-* <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [Pensando en React](https://github.com/leoasis/workshop-pensando-en-react/issues)
+* <img src="https://facebook.github.io/react/img/logo.svg" height="15" width="15" /> [Pensando en React](https://github.com/leoasis/workshop-pensando-en-react)
 
 * <img src="https://avatars2.githubusercontent.com/u/4359353?v=4&s=10" /> [Elm: Desarrollo web para perfeccionistas.](https://github.com/ajchambeaud/elm-workshop)
 
