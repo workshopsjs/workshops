@@ -20,3 +20,5 @@ Todos los workshops son organizados y dictados por miembros de las distintas com
 * <img src="https://avatars2.githubusercontent.com/u/4359353?v=4&s=10" /> [Elm: Desarrollo web para perfeccionistas.](https://github.com/ajchambeaud/elm-workshop)
 
 *  [WebVR para todos: Introducción a la realidad virtual con Aframe.](https://github.com/manup15/A-Frame-Now/tree/miradas-mega-index)
+
+*  [Progressive Web Apps. All in one.](https://github.com/PWA-espanol/workshop)
